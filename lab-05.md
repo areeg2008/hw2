@@ -1,14 +1,11 @@
 Lab 05 - Nobel laureates
 ================
 
-Team Name:
+Team Name:DS5
 
 Team Members - Name and Student ID
 
-1.  
-2.  
-3.  
-4.  
+1.Areeg 11111
 
 ## Packages
 
@@ -40,7 +37,8 @@ dim(nobel)
 
     ## [1] 935  26
 
-Each row represents information about a nobel prize winner.
+observation is 935 variables is 26 Each row represents information about
+a nobel prize winner.
 
 1.  Create a new data frame called `nobel_living` that filters for
 
